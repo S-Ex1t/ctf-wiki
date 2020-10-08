@@ -3,7 +3,7 @@
 
 
 
-**USB Details**: [http://www.usb.org/developers/hidpage/Hut1_12v2.pdf] (http://www.usb.org/developers/hidpage/Hut1_12v2.pdf)
+**USB Details**: [https://usb.org/sites/default/files/hut1_2.pdf] (https://usb.org/sites/default/files/hut1_2.pdf)
 
 
 - Mouse protocol
